@@ -15,15 +15,9 @@ const DispoTag = () => {
     
         return (
         <div>
-            {/* Status Button */}
-            <button
-            onClick={() => setStatus(status === 'Disponible' ? 'A Considerar' : 'Disponible')}
-            className={`flex items-center space-x-2 py-2 px-4 rounded-full ${getStatusClass(status)}`}
-            >
             
-            {/* Status Text */}
             <span>{status}</span>
-            </button>
+            
         </div>
     );
 };
