@@ -27,7 +27,7 @@ const projects = [
   {
     title: "Benefit Ecommerce - Grade Project",
     description: "University Project Collab ft. Alvarez",
-    image: "https://benefit-ecommerce.vercel.app",
+    image: "/imafes/projectPortrait-benefit.PNG",
     tags: ["JavaScript", "HTML", "CSS"],
     link: "https://benefit-ecommerce.vercel.app"
   }
