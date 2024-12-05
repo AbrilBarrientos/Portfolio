@@ -9,10 +9,7 @@ const DispoTag = () => {
         switch (status) {
             case 'Disponible':
             return 'bg-green-100 text-green-800';
-            case 'A Considerar':
-            return 'bg-yellow-100 text-yellow-800';
-            default:
-            return 'bg-gray-500 text-white'; // Default case
+            
         }
         };
     
