@@ -26,10 +26,10 @@ const projects = [
   },
   {
     title: "Benefit Ecommerce - Grade Project",
-    description: "Easy-to-Use CSS Animations Generator - Copy and Incorporate into Your Projects!",
-    image: "/images/cssAniGen-projectPortrait.jpg",
+    description: "University Project Collab ft. Alvarez",
+    image: "https://benefit-ecommerce.vercel.app",
     tags: ["JavaScript", "HTML", "CSS"],
-    link: "https://css-smoth-animations.vercel.app"
+    link: "https://benefit-ecommerce.vercel.app"
   }
 ];
 
