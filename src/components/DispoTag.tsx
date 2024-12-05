@@ -14,7 +14,7 @@ const DispoTag = () => {
         };
     
         return (
-        <div>
+        <div className='bg-green-100 text-green-800'>
             
             <span>{status}</span>
             
