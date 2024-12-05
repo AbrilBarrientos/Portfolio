@@ -15,7 +15,7 @@ const DispoTag = () => {
 
     return (
         <div
-        className={`p-4 rounded-xl ${getStatusClass(status)} transform transition-all duration-500 ease-in-out
+        className={`p-3 rounded-xl ${getStatusClass(status)} transform transition-all duration-500 ease-in-out
             hover:scale-105 hover:shadow-xl hover:bg-green-450 hover:text-green animate-pulse cursor-pointer`}
         style={{
             display: 'inline-block',
