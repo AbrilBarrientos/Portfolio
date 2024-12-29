@@ -31,6 +31,7 @@ const Sidebar = () => {
         <div className="mb-8">
           <MyPhoto/>
           <h2 className="text-2xl font-bold text-gray-800">Abril Barrientos</h2>
+          <p className="text-gray-600 mb-4">20 y/o</p>
           <p className="text-gray-600 mb-4">Argentina, CABA</p>
           
         </div>
