@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 const DispoTag = () => {
-    const [status, setStatus] = useState('Disponible');
+    const [status, setStatus] = useState('Available to work');
 
     // Function to get the appropriate background and text color based on the status
     const getStatusClass = (status) => {
