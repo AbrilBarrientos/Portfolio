@@ -2,7 +2,6 @@
 import { motion } from 'framer-motion';
 import { Home, Briefcase, GraduationCap, User, Github, Linkedin, Star, Instagram } from 'lucide-react';
 import MyPhoto from './MyPhoto';
-import DispoTag from './DispoTag';
 
 
 
@@ -33,7 +32,7 @@ const Sidebar = () => {
           <MyPhoto/>
           <h2 className="text-2xl font-bold text-gray-800">Abril Barrientos</h2>
           <p className="text-gray-600 mb-4">Argentina, CABA</p>
-          <DispoTag />
+          
         </div>
 
         <nav className="flex-1">
